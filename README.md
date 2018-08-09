@@ -9,5 +9,5 @@ Copy and Paste the commands posted below to the console/terminal of your VPS
 #Commands
 
 ```
-wget https://raw.githubusercontent.com/airblue18/OCSPANEL/master/OCS-Script.sh && chmod +x OCS-Script.sh && ./OCS-Script.sh
+wget https://raw.githubusercontent.com/zahwanugrah/OCSPANEL/master/OCS-Script.sh && chmod +x OCS-Script.sh && ./OCS-Script.sh
 ```
